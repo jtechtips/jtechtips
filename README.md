@@ -1,4 +1,3 @@
 jtechtips
 =========
-
-jtechtips.com
+open source project jtechtips.com
